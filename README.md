@@ -6,7 +6,7 @@ This project is a reproducible data workflow in a Jupyter notebook (`data_workfl
 
 1. Clone the repository and open the folder:
    ```bash
-   git clone https://github.com/<your-username>/ai-programming-foundations-project.git
+   git clone https://github.com/Sirvanmesh/ai-programming-foundations-project.git
    cd ai-programming-foundations-project
    ```
 2. Create and activate a virtual environment (Python 3.9 or newer; tested with 3.11):
