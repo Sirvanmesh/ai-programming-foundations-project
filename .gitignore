@@ -3,4 +3,8 @@
 __pycache__/
 .ipynb_checkpoints/
 .env
+.env.*
+*.pem
+*.key
+secrets/
 _course_docs/
