@@ -1,0 +1,6 @@
+.venv/
+.venv-report/
+__pycache__/
+.ipynb_checkpoints/
+.env
+_course_docs/
